@@ -1,0 +1,6 @@
+Replace 'greenscreen.jpg' and 'background.jpg' with the paths to your actual images.
+The foreground image should be the one with the green screen, and the background image is what will replace 
+the green screen.
+
+This code will also resize the foreground image to match the size of the background image, 
+so make sure your background image is the size you want your final image to be.
